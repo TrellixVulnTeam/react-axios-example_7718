@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './style.scss';
 import React from 'react';
 import axios from 'axios';
