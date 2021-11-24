@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# A simple react axios api work
+
+Included packages : bootstrap, remixicon
+
+# Live Site
+
+https://react-axios-basic-example.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
